@@ -1,6 +1,7 @@
 # DFR-reduce-url
 
 ##ENV 
+
 Firs need create .env file as project core (if run outside docker drfsite/drfsite/.env settings.py)
 ```sh 
 drfsite/.env
